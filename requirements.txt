@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+weasyprint
+ebooklib
+python-multipart
